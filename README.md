@@ -1,2 +1,2 @@
-# mirandavictor.github.io
-## Blog em construção
+# Victor Miranda
+### Bem vindo ao meu blog pessoal ;D
