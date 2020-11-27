@@ -20,7 +20,7 @@ This is a sub paragraph, formatted in heading 3 style
 The second paragraph text
 
 <script src="https://utteranc.es/client.js"
-        repo="mirandavictor / mirandavictor.github.io"
+        repo="mirandavictor.github.io"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"
