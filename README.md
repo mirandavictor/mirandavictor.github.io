@@ -5,8 +5,7 @@
 ## Bem vindo ao meu repositório
  
 ... ainda está em contrução
- 
- 
+  
 ## Tecnologia 
  
 A princípio os projetos serão desenvolvimento em pyhton.
@@ -17,30 +16,13 @@ A princípio os projetos serão desenvolvimento em pyhton.
 * Github
 * ...
  
- 
-## Ruby Gems
-...
- 
-## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
 ## Vamos programar!
- 
-Here will be the images and descriptions. Principal content.
- 
- 
+  
 ## Features
  
   - Here will be the features.
  
- 
-## Links
+ ## Links
  
   - Link of deployed application: (if has been deployed)
   - Repository: https://https://mirandavictor.github.io/
@@ -48,19 +30,7 @@ Here will be the images and descriptions. Principal content.
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
  
- 
-## Versioning
- 
-1.0.0.0
- 
- 
-## Autor
- 
-* **Victor Miranda**: @MirandaVictor E (https://github.com/mirandavictor/)
- 
- 
-Please follow github and join us!
-Thanks to visiting me and good coding!
+
 
 <img align="right" width="400" height="400" src="https://avatars2.githubusercontent.com/u/52932678?s=460&v=4">
  
@@ -71,7 +41,7 @@ Thanks to visiting me and good coding!
 … Analista de TI e curioso de ciência de dados!
  
  
-## Sobre o Victor 
+## Minhas redes
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/mirandavictor/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/mirandavictor/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+021+974679641&text=Hello!)](https://api.whatsapp.com/send?phone=55+021+974679641&text=Hello!)
