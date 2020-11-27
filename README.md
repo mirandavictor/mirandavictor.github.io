@@ -1,25 +1,6 @@
-# Victor Miranda
-### Bem vindo ao meu blog pessoal ;D
 
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
-![Logo of the project](http://logo_link)
+![Logo of the project](http://https://www.freelogodesign.org/file/app/client/thumb/8c81cc95-8ad6-4fa4-8e90-75dd08ce7d73_200x200.png?1606502729937)
  
 ## Name_of_the_project
  
@@ -30,9 +11,7 @@ The second paragraph text
  
 Here are the technologies used in this project.
  
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+* Python version  x.x.x
  
  
 ## Services Used
@@ -66,7 +45,7 @@ Here will be the images and descriptions. Principal content.
 ## Links
  
   - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+  - Repository: https://https://mirandavictor.github.io/
     - In case of sensitive bugs like security vulnerabilities, please contact
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
@@ -77,9 +56,9 @@ Here will be the images and descriptions. Principal content.
 1.0.0.0
  
  
-## Authors
+## Autor
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Victor Miranda**: @MirandaVictor E (https://github.com/mirandavictor/)
  
  
 Please follow github and join us!
