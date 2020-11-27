@@ -62,7 +62,7 @@ Here will be the images and descriptions. Principal content.
 Please follow github and join us!
 Thanks to visiting me and good coding!
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://avatars2.githubusercontent.com/u/52932678?s=460&v=4">
  
 # Welcome!
  
