@@ -64,19 +64,19 @@ Thanks to visiting me and good coding!
 
 <img align="right" width="400" height="400" src="https://avatars2.githubusercontent.com/u/52932678?s=460&v=4">
  
-# Welcome!
+# Bem vindo!
  
-## I'm SEU NOME AQUI!
+## Sou Victor Miranda!
  
-… Insira suas descrições aqui!
+… Analista de TI e curioso de ciência de dados!
  
  
-## About me 
+## Sobre o Victor 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/mirandavictor/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/mirandavictor/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+021+974679641&text=Hello!)](https://api.whatsapp.com/send?phone=55+021+974679641&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:victormiranda.vm7@gmail.com)
  
-- Thanks for visiting. 
+- Obrigado pela visita ;). 
  
 - Enjoy it!! o/
