@@ -50,11 +50,3 @@ A princípio os projetos serão desenvolvimento em pyhton.
 - Obrigado pela visita ;). 
  
 - Enjoy it!! o/
-
-<script src="https://utteranc.es/client.js"
-        repo="mirandavictor.github.io"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
