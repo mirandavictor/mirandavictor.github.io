@@ -1,6 +1,6 @@
 
 
-![Logo of the project](http://https://www.freelogodesign.org/file/app/client/thumb/8c81cc95-8ad6-4fa4-8e90-75dd08ce7d73_200x200.png?1606502729937)
+![Logo of the project](https://ci5.googleusercontent.com/proxy/txw_7yOq1rKWTTF0mJB0sZlc1-qE-ZAeGNOGeawQcKCbyccqzQAGtZEQDkyGkxZSlrAzJ3qExXVTPlwoF0UcMSnRMYb9stQAxVmXTfg04-bM5XBFHNSnSYy0znJKkpDQqkEXuAV7GbMW4zfmDLYup1Mrk9N5z8cZ=s0-d-e1-ft#https://www.freelogodesign.org/file/app/client/thumb/8c81cc95-8ad6-4fa4-8e90-75dd08ce7d73_200x200.png)
  
 ## Name_of_the_project
  
