@@ -19,10 +19,3 @@ This is a sub paragraph, formatted in heading 3 style
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
 
-<script src="https://utteranc.es/client.js"
-        repo="mirandavictor.github.io"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
