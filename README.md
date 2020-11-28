@@ -17,6 +17,7 @@ A princípio os projetos serão desenvolvimento em pyhton.
 * ...
 
 ## Currículo
+- Formação em Sistema de informação
 
 ## Vamos programar!
   
