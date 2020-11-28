@@ -15,7 +15,9 @@ A princípio os projetos serão desenvolvimento em pyhton.
  
 * Github
 * ...
- 
+
+## Currículo
+
 ## Vamos programar!
   
 ## Features
